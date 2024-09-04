@@ -170,3 +170,22 @@ Loops in JS :-
     web bocket
     web bocket
     web bocket
+    web bocket
+
+2. while loop :-
+
+syntax- 
+while(condition){
+    statement
+    updattion
+}
+
+3. do while loop:-
+syntax -
+do{
+    statement
+    updation
+} while(condition)
+
+4.for-of-loop:- it iterate on string & array
+5.for-in-loop:- it iterate over objects (key value) pair.
