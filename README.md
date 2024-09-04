@@ -76,5 +76,97 @@ let student ={name:"rudra prasad pradhan", mob no-9861231580,college-"ceb"}
 Operator in js:-
 
 - operatior are the key features to do some task or operate some task.
-- ex.a+b
-- in this above example
+- ex.A+B
+- in this above example A,B are the operands & "+" is the operatior.
+- there are 5 types of operatior are their in javascript.
+ 
+1. arithmetic operator  
+    (+,-,*,/)
+    modulus -> %
+    exponentiation -> **
+
+2. unary operator 
+    increment (++)
+    decreament (--)
+
+3. assignment operator
+    (assign some values to the variables)
+    (=, +=, -=, =, %=, *=)
+
+4. comparison operator
+    (compair the values)
+    it gives the result of true or false. 
+    equal to -> ==
+    not equal to -> !=
+    equal to & type -> ===
+    not equal to & type -> !==
+
+5. logical operator 
+    checks the logic of the operator(true/false)
+    logical AND (&&) -> table of logical AND operator is -> 
+    cond1  cond2  res(&&)
+    T       T      T
+    T       F      F
+    F       T      F
+    F       F      F
+
+    logical OR (||) -> table of logical OR operator is -> 
+    cond1  cond2  res(&&)
+    T       T      T
+    T       F      T
+    F       T      T
+    F       F      F
+
+    logical Not (!)
+
+     there are 3 types of conditional statement are there 
+
+1. if condition :- 
+    - if condition is true then statement is true otherwise false. 
+    syntax - 
+    if(condition){
+        statemeconditional statement :- 
+
+- to implement some condition in the code.
+- there nt
+    }
+
+2. if-else condition :- 
+    - if condition is true then if bloack is executed otherwise its terminate to else condition.
+    syntax - 
+    if(condition){
+        statement
+    } else {
+        statement
+    }
+
+3. else-if condition :- 
+    - its check the condition multiple times where the condition is true. 
+    syntax - 
+    if(condition){
+        statement
+    } else if(condition){
+        statement
+    } else if(condition){
+        statement
+    } else {
+        statement
+    }
+
+Loops in JS :- 
+
+- loops are used to execute a piece of code again and again.
+1. For Loop :-
+    syntax - 
+    for (initialization; condition; updation){
+        statement
+    }
+    ex - 
+    for(let i = 1;i <= 5; i++){
+        console.log("web bocket")
+    }
+
+    web bocket
+    web bocket
+    web bocket
+    web bocket

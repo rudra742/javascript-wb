@@ -22,3 +22,22 @@
 // console.log(mysalary)
 // console.log(typeof(mysalary))
 
+// let rudra ={
+//     college :"CEB",
+//     address : "BBSR",
+//     age : 22,
+//     salary : 70000,
+//     carrier :"GOOD"
+// }
+//  console.log(rudra)
+//  console.log(rudra["salary"])
+//  console.log(rudra["address"])
+//  console.log(rudra["age"])
+
+
+// let arr = ["gift", "coeb", "gec", "trident", "niss"]
+
+// console.log(arr)
+// console.log(arr[0])
+// console.log(arr[3])
+// console.log(arr[4])
